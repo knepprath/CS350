@@ -3,8 +3,6 @@ import os
 
 input = [10, 20, 50, 100, 150, 200, 300, 400, 500, 750, 1000]
 
-
-
 print ("--5 denominations with 11 input---")
 for x in range (0, 2):
 	print ("---Test" + str(x+1))
